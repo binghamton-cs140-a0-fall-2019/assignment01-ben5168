@@ -6,7 +6,7 @@ package assignment01;
  * @author CS 140
  *
  */
-public class Computer {
+public class Computer{
 	private String brand;
 	private String cpuDescription;
 	private int ramGB;
